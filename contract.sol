@@ -1,7 +1,7 @@
 pragma solidity ^0.8.0;
 import "https://github.com/open-contracts/protocol/blob/main/solidity_contracts/OpenContractRopsten.sol";
 
-contract WeatherInsurance is OpenContract {
+contract FriendlyWager is OpenContract {
 
     struct deal {
         uint256 payout;
